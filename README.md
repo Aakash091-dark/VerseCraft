@@ -22,7 +22,6 @@ It is an advanced deep learning model that generates creative and contextually r
 - **User-Friendly Interface**: Clean, modern web interface for easy interaction
 - **Real-Time Generation**: Fast response times with asynchronous processing
 
-[Screenshot of Web Interface]
 
 ## 🚀 Installation
 
