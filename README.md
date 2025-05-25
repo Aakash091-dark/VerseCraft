@@ -1,7 +1,6 @@
 # 🎵 VerseCraft: Creative Song Lyrics Generator
 
 
-[Project Banner Image]
 
 It is an advanced deep learning model that generates creative and contextually relevant song lyrics. Built with PyTorch and Flask, it uses LSTM architecture to understand and generate human-like lyrics across different musical genres.
 
