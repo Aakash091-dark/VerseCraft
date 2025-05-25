@@ -1,9 +1,5 @@
 # 🎵 VerseCraft: Creative Song Lyrics Generator
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/AMIRHaytham/lyricMind-AI)
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Twitter](https://img.shields.io/badge/twitter-@AmirHaytham__-1DA1F2)](https://twitter.com/AmirHaytham_)
 
 [Project Banner Image]
 
